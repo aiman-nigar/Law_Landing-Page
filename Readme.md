@@ -10,3 +10,8 @@ It is a static home page made using **HTML & CSS**.
 > ### The Screenshot of the site is attached here:-
 
 ![Project-3 ScreenShot:](lawSS.png "Law home page")
+
+Time taken: 1.5 Hour
+
+> ### The link to the site: [Street style Landing Page](https://aim-law-landing-page.netlify.app/)
+

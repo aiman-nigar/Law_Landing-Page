@@ -13,5 +13,5 @@ It is a static home page made using **HTML & CSS**.
 
 Time taken: 1.5 Hour
 
-> ### The link to the site: [Street style Landing Page](https://aim-law-landing-page.netlify.app/)
+> ### The link to the site: [Law Landing Page](https://aim-law-landing-page.netlify.app/)
 
